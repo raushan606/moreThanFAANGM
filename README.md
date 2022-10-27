@@ -113,8 +113,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="B">B</h2>  
 
-1.  [Barclays](https://home.barclays/careers/)
-1.  [Bain & Co](https://www.bain.com/careers/)
+
 1.  [BARC India](https://www.barcindia.co.in/life-at-barc)
 1.  [Bazaarvoice](https://www.bazaarvoice.com/company/careers/)
 1.  [Bellatrix Aerospace](http://www.bellatrixaerospace.com/)
@@ -227,9 +226,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="E">E</h2>  
 
-1.   [EA Games](https://www.ea.com/careers)
-1.   [Enfussion](https://enfusion.com/careers/)
-1.   [Envestnet Yoodlee](https://www.yodlee.com/oceania/india-careers) 
 1.   [Ericsson](https://www.ericsson.com/en/careers)
 1.   [Eurofins](https://careers.eurofins.com/in/)
 1.   [EXL Healthcare](https://exlservice.com/careers)  
@@ -300,10 +296,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [HealthAsyst](https://www.healthasyst.com/careers/)
 1.   [Healthify me](https://www.healthifyme.com/careers/)  
 1.   [HERE](https://www.here.com/careers)
-1.   [Hexagone](https://hexagon.com/about/careers)
-1.   [Hotstar](https://tech.hotstar.com/)
-1.   [Honeywell](https://careers.honeywell.com/)
-1.   [HP](https://jobs.hp.com/)  
+
+ 
     
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -311,8 +305,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="I">I</h2>  
 
-1.   [IBM](https://www.ibm.com/in-en/employment/)
-1.   [IdeaForge](https://www.ideaforge.co.in/career/)
+
 1.   [IHS Markit](https://careers.ihsmarkit.com/)  
 1.   [Impact Analytics](https://www.impactanalytics.co/join-us/)
 1.   [Indeed](https://in.indeed.com/cmp/Indeed)
@@ -471,18 +464,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<br>
-
-<h2 id="Q">Q</h2>  
-
-1.   [Qualcomm](https://www.qualcomm.com/company/careers) 
-1.   [Quantiphi](https://quantiphi.com/careers/) 
-1.   [QuickSell](https://www.linkedin.com/company/quicksell/jobs/) 
-1.   [Quora](https://www.quora.com/careers)  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<br>
 
 <h2 id="R">R</h2>  
 
@@ -530,34 +511,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 13.   [Stripe](https://stripe.com/in/jobs)  
 14.   [Swiggy](https://careers.swiggy.com/)  
 15.   [Synopsys](https://www.synopsys.com/careers.html)  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<br>
-
-<h2 id="T">T</h2>  
-
-1.   [Target](https://corporate.target.com/careers)  
-1.   [TATA Advanced Sysytems Ltd](https://www.tataadvancedsystems.com/careers.php)
-1.   [TE Connectivity](https://careers.te.com/)
-1.   [TEK Systems](https://www.teksystems.com/en-in/careers)
-1.   [Tekion corp](https://tekion.com/careers) 
-1.   [Tesla](https://www.tesla.com/careers) 
-1.   [Teradata](https://careers.teradata.com/)
-1.   [texas instruments](https://careers.ti.com/)
-1.   [ThoughtSpot](https://www.thoughtspot.com/careers-listing)  
-1.   [thoughtWorks](https://www.thoughtworks.com/careers/jobs) 
-1.   [Topcoder](https://www.topcoder.com/company/jobs/)
-1.   [Toptal](https://www.toptal.com/careers) 
-1.   [tower research capital](https://www.tower-research.com/positions)  
-1.   [Treebo Hotels](https://www.linkedin.com/company/treebohotels/jobs/)
-1.   [turvo](https://turvo.com/careers/)
-1.   [Twilio](https://www.twilio.com/company/jobs)  
-1.   [Twitter](https://careers.twitter.com/) 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<br>
 
 <h2 id="U">U</h2>  
 
@@ -619,84 +572,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [yugabyte](https://www.yugabyte.com/careers/)
 1.   [Yulu Bikes](https://www.yulu.bike/careers/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<br>
-
-<h2 id="Z">Z</h2>  
-
-1.   [zerodha](https://careers.zerodha.com/)  
-1.   [Zeta](https://careers.zeta.tech/work-with-us/)
-1.   [ZivaMe](https://careers.zivame.com/)  
-1.   [zoho](https://careers.zohocorp.com/jobs/Careers)   
-1.   [Zomato](https://www.zomato.com/careers) 
-1.   [ZoomCar](https://www.zoomcar.com/careers) 
-1.   [ZS](https://jobs.zs.com/all/jobs)  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<br>
-
-<!-- ## 0-9   -->
-<h2 id="0-9">0-9</h2>  
-
-1.   [1 mg](https://www.1mg.com/jobs)  
-1.   [3i Infotech](3i-infotech.com/careers/) 
-1.   [314e Corporation](https://www.314e.com/)  
-1.   [[24]7.ai](https://www.247.ai/career-search) 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<br>  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
 
-  
 
-## Guidelines
-  
-
-Refer [rules](https://github.com/Kaustubh-Natuskar/companies-to-apply/blob/main/GUIDELINES.MD)
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<br>  
-  
-
-
-<h2 align=center>Contributors✨</h2>
-<table>
-	<tr>
-		 <td>
-  <a href="https://github.com/Kaustubh-Natuskar/companies-to-apply/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Kaustubh-Natuskar/companies-to-apply" />
-  </a>
-		</td>
-	</tr>
-</table>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<br>
-
-## Feedback
-
-If you have any feedback or suggestions please reach out to maintainers.  
-* [Kaustubh Natuskar](https://www.linkedin.com/in/kaustubhnatuskar/)  
-
-
-<div id="Bottom"></div>
